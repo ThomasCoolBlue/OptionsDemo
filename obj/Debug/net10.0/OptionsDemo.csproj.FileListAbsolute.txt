@@ -45,3 +45,4 @@ C:\Users\thomas.hartman\Documents\Repositories\OptionsDemo\obj\Debug\net10.0\Opt
 C:\Users\thomas.hartman\Documents\Repositories\OptionsDemo\obj\Debug\net10.0\OptionsDemo.genruntimeconfig.cache
 C:\Users\thomas.hartman\Documents\Repositories\OptionsDemo\obj\Debug\net10.0\ref\OptionsDemo.dll
 C:\Users\thomas.hartman\Documents\Repositories\OptionsDemo\bin\Debug\net10.0\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\thomas.hartman\Documents\Repositories\OptionsDemo\obj\Debug\net10.0\OptionsDemo.sourcelink.json
